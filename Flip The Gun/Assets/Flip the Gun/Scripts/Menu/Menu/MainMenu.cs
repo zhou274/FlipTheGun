@@ -181,7 +181,7 @@ public class MainMenu : MonoBehaviour {
 
 	public void GetCoin()
 	{
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("1anf98b6oddo4222f4",
             (bol) => {
                 if (bol)
                 {

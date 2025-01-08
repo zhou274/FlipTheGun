@@ -51,9 +51,8 @@ public class Dead : MonoBehaviour {
 			deadMenu.SetActive(true);
 			//Disable escape button.
 			MainMenu.escape = 0;
-            ShowInterstitialAd("1lcaf5895d5l1293dc",
+            ShowInterstitialAd("19b86gbl546m3ue6rl",
             () => {
-                Debug.LogError("--插屏广告完成--");
 
             },
             (it, str) => {
