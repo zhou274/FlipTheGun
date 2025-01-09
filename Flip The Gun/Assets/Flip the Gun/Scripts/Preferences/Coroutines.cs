@@ -136,11 +136,14 @@ public class Coroutines : MonoBehaviour {
 		for (int i = 0; i < entries.Length; i++)
 		{
 			string[] entryInfo = entries[i].Split(new char[] {'|'});
-			string username = entryInfo[0];
-			int score = int.Parse(entryInfo[1]);
-			highscoresList[i] = new Highscore(username, score);
-			if(highscoresList[i].username == MainMenu.username)
-				playerPlace = i+1;
+			if (entryInfo.Length >= 2)
+			{
+				string username = entryInfo[0];
+				int score = int.Parse(entryInfo[1]);
+				highscoresList[i] = new Highscore(username, score);
+				if (highscoresList[i].username == MainMenu.username)
+					playerPlace = i + 1;
+			}
 //			Debug.Log(highscoresList[i].username + ": " + highscoresList[i].score);
 		}
 		if(playerPlace == -1)
