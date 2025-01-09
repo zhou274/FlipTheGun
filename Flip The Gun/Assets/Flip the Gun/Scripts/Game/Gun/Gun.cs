@@ -276,4 +276,5 @@ public class Gun : MonoBehaviour {
 		gunRight.simulated = false;
 		gunLeft.simulated = false;
 	}
+	
 }

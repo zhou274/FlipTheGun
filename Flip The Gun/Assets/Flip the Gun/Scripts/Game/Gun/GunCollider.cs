@@ -1,16 +1,4 @@
-/*
-http://www.cgsoso.com/forum-211-1.html
 
-CG搜搜 Unity3d 每日Unity3d插件免费更新 更有VIP资源！
-
-CGSOSO 主打游戏开发，影视设计等CG资源素材。
-
-插件如若商用，请务必官网购买！
-
-daily assets update for try.
-
-U should buy the asset from home store if u use it in your project!
-*/
 
 using UnityEngine;
 
@@ -22,6 +10,8 @@ public class GunCollider : MonoBehaviour {
 	//Used to check if booster was used.
 	public static bool boosterUsed;
 
+
+	public bool isRight;
 	//Used to check how many boosters and bullets was collected.
 	private int boosterCount;
 	private int bulletCount;
@@ -98,7 +88,7 @@ public class GunCollider : MonoBehaviour {
 				Coroutines.AchieveChallenge(bulletCount, 5, 15, 25);
 			}			
 		}
-
+		
 		if (col.tag == "Blocker")
 		{
 			Gun.ResetForces();
@@ -120,13 +110,29 @@ public class GunCollider : MonoBehaviour {
             Time.timeScale = 0;
         }
     }
+    public void OnDestroy()
+    {
+        DeadMenu.Respawned -= Respawn;
+    }
     public void Respawn()
     {
-        Gun.reload = true;
-
-        //Adding how many bullets has been used to achievements.
-        PlayerPrefs.SetInt("CollectBullets", (PlayerPrefs.GetInt("CollectBullets") + 1));
-        transform.position = new Vector3(transform.position.x, transform.position.y + 7, transform.position.z);
-        Time.timeScale = 1;
+		if(isRight==true)
+		{
+            Gun.reload = true;
+            //Adding how many bullets has been used to achievements.
+            PlayerPrefs.SetInt("CollectBullets", (PlayerPrefs.GetInt("CollectBullets") + 1));
+            Time.timeScale = 1;
+            transform.position = new Vector3(0, transform.position.y + 10, 0);
+        }
+		if(isRight==false)
+		{
+            Gun.reload = true;
+            //Adding how many bullets has been used to achievements.
+            PlayerPrefs.SetInt("CollectBullets", (PlayerPrefs.GetInt("CollectBullets") + 1));
+            Time.timeScale = 1;
+            transform.position = new Vector3(6, transform.position.y + 10, 0);
+        }
+            
+        
     }
 }

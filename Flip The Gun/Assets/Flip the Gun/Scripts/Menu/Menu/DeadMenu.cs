@@ -6,6 +6,7 @@ using StarkSDKSpace;
 using System.Collections.Generic;
 using UnityEngine.Analytics;
 using System;
+using UnityEngine.SceneManagement;
 
 public class DeadMenu : MonoBehaviour {
 
@@ -54,11 +55,16 @@ public class DeadMenu : MonoBehaviour {
     }
     public void Restart()
 	{
-        Time.timeScale = 1;
+
         //Fade in animation to restart game.
-        fade.Play("FadeIn");
+        //fade.Play("FadeIn");
         //Start restart coroutine.
-        coroutines.StartCoroutine("RestartScene");
+        //coroutines.StartCoroutine("RestartScene");
+        //SceneManager.LoadScene(0);
+        Time.timeScale = 1;
+        SceneManager.LoadScene("FlipTheGun");
+        GunCollider.boosterUsed = false;
+        //SceneManager.LoadScene("FlipTheGun");
 
     }
     public void getClickid()

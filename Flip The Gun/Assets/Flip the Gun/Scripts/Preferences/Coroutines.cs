@@ -78,8 +78,9 @@ public class Coroutines : MonoBehaviour {
 	IEnumerator RestartScene()
 	{
 		yield return new WaitForSeconds(0.5f);
-		SceneManager.LoadScene("FlipTheGun");	
-	}
+		SceneManager.LoadScene("FlipTheGun");
+        
+    }
 
 	IEnumerator EnableGunPhysics() {
         yield return new WaitForSeconds(1);
