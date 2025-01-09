@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Simulator
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 71
+  controlID: 18
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,10 +147,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 300, y: 100}
+  m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 118
+  controlID: 50
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,10 +193,10 @@ MonoBehaviour:
     y: 0
     width: 1158
     height: 947
-  m_MinSize: {x: 100, y: 100}
+  m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 119
+  controlID: 51
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -458,7 +458,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: b8e7fcff28e8fcff36f1fcff7ef1fcff80f5fcff46fbfcff083efdffd644fdff704bfdff344ffeff4a67feff4675feff5c91feff68b0feffc015ffff7e40ffff6ed7ffff4e9b00009eb50100f4d4010074d50100f2dc01004ede0100c6e1010062e201000ce70100d6e801006ee901007ede020062ea0200ce3c030070420300224a0300f4d60300c6e3030000e403008c5506003c590600665c0600427107000e73070096780700127f0700
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -566,38 +566,37 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Flip the Gun/Scripts/Menu/Menu
+    - Assets/Flip the Gun/Scripts/Game/Wallet
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Flip the Gun/Scripts/Menu/Menu
+  - Assets/Flip the Gun/Scripts/Game/Wallet
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: "D:\\BaiduNetdiskDownload\\\uFF082019.2\uFF09\u5C04\u51FB\u6E38\u620F\\Flip
-    The Gun"
+  m_LastProjectPath: D:\BaiduNetdiskDownload\test\Flip The Gun
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 93}
-    m_SelectedIDs: 9ce90100
-    m_LastClickedID: 125340
-    m_ExpandedIDs: 0000000076a3000078a30000fca30000f8820100fa8201008ee9010092e90100209e0200a2300600
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 42700000
+    m_LastClickedID: 28738
+    m_ExpandedIDs: 0000000030700000387000004470000046700000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Bullets
-      m_OriginalName: Bullets
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 171538
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_SearchString: 
@@ -611,7 +610,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000076a3000078a30000
+    m_ExpandedIDs: 0000000030700000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -638,22 +637,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 7473000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: CebianlanManager
-      m_OriginalName: CebianlanManager
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 491516
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
@@ -982,9 +981,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.416649, y: -4.663365, z: 35.42805}
+    m_Target: {x: -11.656469, y: -1.9703631, z: 45.326786}
     speed: 2
-    m_Value: {x: -3.416649, y: -4.663365, z: 35.42805}
+    m_Value: {x: -11.656469, y: -1.9703631, z: 45.326786}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1031,13 +1030,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08415719, y: 0.034965117, z: -0.002954155, w: -0.99582475}
+    m_Target: {x: -0.055520255, y: 0.09629608, z: -0.0053792316, w: -0.9937796}
     speed: 2
-    m_Value: {x: -0.08266416, y: 0.034969848, z: -0.0029017343, w: -0.9959595}
+    m_Value: {x: -0.055520747, y: 0.096296936, z: -0.0053792796, w: -0.9937884}
   m_Size:
-    m_Target: 22.426994
+    m_Target: 36.22749
     speed: 2
-    m_Value: 21.461239
+    m_Value: 36.22749
   m_Ortho:
     m_Target: 0
     speed: 2

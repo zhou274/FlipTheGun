@@ -25,8 +25,11 @@ public class GunCollider : MonoBehaviour {
 	//Used to check how many boosters and bullets was collected.
 	private int boosterCount;
 	private int bulletCount;
-
-	void Start()
+    private void Awake()
+    {
+        DeadMenu.Respawned += Respawn;
+    }
+    void Start()
 	{
 		//Reset stats.
 		boosterCount = 0;
@@ -113,7 +116,17 @@ public class GunCollider : MonoBehaviour {
 		//If gun reached bottom side collider then gun gameobject is disabled.
 		if(col.tag == "BSide")
 		{
-			transform.parent.gameObject.SetActive(false);
-		}
+            //transform.parent.gameObject.SetActive(false);
+            Time.timeScale = 0;
+        }
+    }
+    public void Respawn()
+    {
+        Gun.reload = true;
+
+        //Adding how many bullets has been used to achievements.
+        PlayerPrefs.SetInt("CollectBullets", (PlayerPrefs.GetInt("CollectBullets") + 1));
+        transform.position = new Vector3(transform.position.x, transform.position.y + 7, transform.position.z);
+        Time.timeScale = 1;
     }
 }
