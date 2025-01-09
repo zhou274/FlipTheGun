@@ -5,6 +5,7 @@ using TTSDK;
 using StarkSDKSpace;
 using System.Collections.Generic;
 using UnityEngine.Analytics;
+using System;
 
 public class DeadMenu : MonoBehaviour {
 
@@ -15,23 +16,22 @@ public class DeadMenu : MonoBehaviour {
 	public Coroutines coroutines;
     public string clickid;
     private StarkAdManager starkAdManager;
+    public static Action Respawned;
     void Start()
 	{
 		//Fade in animation when player is dead.
 		gameObject.GetComponent<Animation>().Play("FadeIn");
 	}
-
-	public void Continue()
-	{
+    public void Continue()
+    {
         ShowVideoAd("1anf98b6oddo4222f4",
             (bol) => {
                 if (bol)
                 {
-                    //Fade in animation to restart game.
-                    fade.Play("FadeIn");
-                    //Start restart coroutine.
-                    coroutines.StartCoroutine("RestartScene");
 
+                    transform.gameObject.SetActive(false);
+                    Time.timeScale = 1;
+                    Respawned();
 
 
                     clickid = "";
@@ -50,8 +50,17 @@ public class DeadMenu : MonoBehaviour {
                 Debug.LogError("Error->" + str);
                 //AndroidUIManager.ShowToast("广告加载异常，请重新看广告！");
             });
-        
-	}
+
+    }
+    public void Restart()
+	{
+        Time.timeScale = 1;
+        //Fade in animation to restart game.
+        fade.Play("FadeIn");
+        //Start restart coroutine.
+        coroutines.StartCoroutine("RestartScene");
+
+    }
     public void getClickid()
     {
         var launchOpt = StarkSDK.API.GetLaunchOptionsSync();

@@ -12,6 +12,7 @@ daily assets update for try.
 U should buy the asset from home store if u use it in your project!
 */
 
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -27,14 +28,14 @@ public class Wallet : MonoBehaviour {
 	public static AudioSource coinSound;
 	
 	//Used to display coin amount in menu and game.
-	private static Text coinsText;
+	private static TextMeshProUGUI coinsText;
 
 	void Start () 
 	{
 		//Attach all components.
 		coinAnim = this.GetComponent<Animation>();
 		coinSound = this.GetComponent<AudioSource>();
-		coinsText = gameObject.GetComponent<Text>();
+		coinsText = gameObject.GetComponent<TextMeshProUGUI>();
 		//Get from playeprefs how many coins player has. 
 		coins = PlayerPrefs.GetInt("Coins");
 		//Set coin amount before game.
