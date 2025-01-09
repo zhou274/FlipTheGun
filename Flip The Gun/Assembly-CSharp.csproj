@@ -138,10 +138,19 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 9f23bdaca636b5bf457a0355c329b0b9d15ce6bd
     <Reference Include="UnityEngine.ARModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<<<<<<< HEAD
+=======
+>>>>>>> 5100faba4e8b152e6f6471d625c5a9c9e364c7ac
+>>>>>>> 9f23bdaca636b5bf457a0355c329b0b9d15ce6bd
     <Reference Include="UnityEngine.AccessibilityModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll</HintPath>
       <Private>False</Private>
@@ -166,6 +175,11 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 9f23bdaca636b5bf457a0355c329b0b9d15ce6bd
     <Reference Include="UnityEngine.ClusterInputModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
       <Private>False</Private>
@@ -174,6 +188,10 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<<<<<<< HEAD
+=======
+>>>>>>> 5100faba4e8b152e6f6471d625c5a9c9e364c7ac
+>>>>>>> 9f23bdaca636b5bf457a0355c329b0b9d15ce6bd
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
       <Private>False</Private>
@@ -390,8 +408,18 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="UnityEngine.VirtualTexturingModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
+=======
+<<<<<<< HEAD
+    <Reference Include="UnityEngine.WebGLModule">
+      <HintPath>D:\unity_edit\2021.3.41f1c1\Editor\Data\PlaybackEngines\WebGLSupport\Managed\UnityEngine.WebGLModule.dll</HintPath>
+=======
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.41f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
+>>>>>>> 5100faba4e8b152e6f6471d625c5a9c9e364c7ac
+>>>>>>> 9f23bdaca636b5bf457a0355c329b0b9d15ce6bd
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.WindModule">
