@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.SpatialTracking", "UnityEngine.SpatialTracking.csproj", "{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Services.Core.Internal", "Unity.Services.Core.Internal.csproj", "{2031E9C3-375C-E7D4-5E4B-96A392666818}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{CE5E5A20-49C9-D605-DDBB-63BB132256BB}"
@@ -65,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.Purchasing.Appl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.Purchasing.AppleMacosStub", "UnityEngine.Purchasing.AppleMacosStub.csproj", "{A5D5B89B-5BCB-380F-FF77-7DCDD3683BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.SpatialTracking", "UnityEngine.SpatialTracking.csproj", "{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Analytics.DataPrivacy", "Unity.Analytics.DataPrivacy.csproj", "{FE7FBA31-6D39-7E48-39B7-E870D9D8C973}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Services.Core.Editor", "Unity.Services.Core.Editor.csproj", "{00CCB35A-8D83-8629-4BEE-75A2A85EF584}"
@@ -111,10 +111,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2031E9C3-375C-E7D4-5E4B-96A392666818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2031E9C3-375C-E7D4-5E4B-96A392666818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2031E9C3-375C-E7D4-5E4B-96A392666818}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -239,6 +235,10 @@ Global
 		{A5D5B89B-5BCB-380F-FF77-7DCDD3683BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D5B89B-5BCB-380F-FF77-7DCDD3683BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5D5B89B-5BCB-380F-FF77-7DCDD3683BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05982CA-9747-71F5-0BFD-9A7F4461CBAC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FE7FBA31-6D39-7E48-39B7-E870D9D8C973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FE7FBA31-6D39-7E48-39B7-E870D9D8C973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE7FBA31-6D39-7E48-39B7-E870D9D8C973}.Release|Any CPU.ActiveCfg = Release|Any CPU
