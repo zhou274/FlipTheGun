@@ -1,57 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\",
+  "WorkspaceRootPath": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\gun\\guncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\gun\\guncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\buymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\buymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\deadmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|d:\\unityproject\\flipthegun\\flip the gun\\assets\\flip the gun\\scripts\\menu\\menu\\deadmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\deadmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u65CB\u8F6C\u67AA\u795E\\flip the gun\\assets\\flip the gun\\scripts\\preferences\\coroutines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\preferences\\coroutines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\highscoreline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\ui\\highscoreline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\gun\\guncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\gun\\guncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\dead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\buymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\buymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\gun\\bulletplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\gun\\bulletplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\dead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\ui\\dead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\ui\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\wallet\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\preferences\\coroutines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\preferences\\coroutines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\highscoreline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\ui\\highscoreline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\wallet\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\wallet\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\collectables\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\collectables\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\collectables\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\gun\\bulletfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\gun\\bulletfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\gun\\bulletfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\preferences\\adbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\preferences\\adbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\preferences\\adbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\collectables\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\collectables\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\collectables\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -61,30 +73,22 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\game\\ui\\ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\game\\ui\\ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\properties\\gunui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\properties\\gunui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\properties\\gunui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\scrollsnap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\scrollsnap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\scrollsnap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|D:\\UnityProject\\FlipTheGun\\Flip The Gun\\assets\\flip the gun\\scripts\\menu\\menu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDC215C6-5E05-1107-2C8D-62BD1F980049}|Assembly-CSharp.csproj|solutionrelative:assets\\flip the gun\\scripts\\menu\\menu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -95,180 +99,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GunCollider.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "BulletFly.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T03:52:00.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T06:15:53.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Coroutines.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAcwFAAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABIwBwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:42:42.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T06:15:44.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BuyMenu.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
-              "ViewState": "AgIAAOUAAAAAAAAAAAAAAOUAAAATAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "AdBanner.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAABIwGoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:18:08.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T06:15:42.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "BulletFly.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletFly.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCAAAAAaAAAAAAAAAA==",
+              "Title": "HighscoreLine.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:15:53.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T06:18:09.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Bullet.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAABIwBwAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:15:44.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T04:40:21.92Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AdBanner.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Preferences\\AdBanner.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAABIwGoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:15:42.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HighscoreLine.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\HighscoreLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:18:09.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Gun.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\Gun.cs",
-              "ViewState": "AgIAAAUBAAAAAAAAAAAgwAQBAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:40:21.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Wallet.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Wallet\\Wallet.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Wallet\\Wallet.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Wallet\\Wallet.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Wallet\\Wallet.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Wallet\\Wallet.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Wallet\\Wallet.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAIBPwC4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T03:58:27.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T03:58:27.299Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Dead.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Dead.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Dead.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\Dead.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Dead.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Dead.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\Dead.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T03:42:40.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T03:42:40.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Score.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Score.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Score.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\Score.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Score.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Score.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\Score.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAIwCUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T03:55:36.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T03:55:36.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DeadMenu.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\DeadMenu.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\DeadMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\DeadMenu.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\DeadMenu.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\DeadMenu.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\DeadMenu.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAuwDsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T03:45:21.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Coin.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAABIwDIAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Coroutines.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Preferences\\Coroutines.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwFAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:17:41.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T06:42:42.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Collectables\\Coin.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAABIwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:17:41.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ADManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
@@ -278,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
@@ -289,33 +257,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\MainMenu.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\MainMenu.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\MainMenu.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\MainMenu.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\MainMenu.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAAwL4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALAAAAAAAAAAAAAmwLoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T05:08:37.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\CebianlanManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\CebianlanManager.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\CebianlanManager.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\CebianlanManager.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\CebianlanManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwEkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T05:38:50.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T05:38:50.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
+              "Title": "BuyMenu.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\BuyMenu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:18:08.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GunCollider.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\GunCollider.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAASwHIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:52:00.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BulletPlace.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletPlace.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletPlace.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletPlace.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\Gun\\BulletPlace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:37:33.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\CebianlanManager.cs",
@@ -325,55 +328,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ScrollSnap.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\ScrollSnap.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\ScrollSnap.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\ScrollSnap.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\ScrollSnap.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\ScrollSnap.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\ScrollSnap.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAawCwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T04:39:06.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T04:39:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GunUI.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAawH8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:34:41.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:28:36.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "GunUI.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Properties\\GunUI.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAawH8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T04:34:41.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StartMenu.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
-              "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Menu\\Menu\\StartMenu.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T04:28:36.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "Ammo.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Ammo.cs",
+              "DocumentMoniker": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Ammo.cs",
               "RelativeDocumentMoniker": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\Ammo.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u65CB\u8F6C\u67AA\u795E\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Ammo.cs",
+              "ToolTip": "D:\\UnityProject\\FlipTheGun\\Flip The Gun\\Assets\\Flip the Gun\\Scripts\\Game\\UI\\Ammo.cs",
               "RelativeToolTip": "Assets\\Flip the Gun\\Scripts\\Game\\UI\\Ammo.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAIwCMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T04:58:40.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T04:58:40.829Z"
             }
           ]
         }
